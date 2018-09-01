@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- -->
+    <color name="background">#5fb0c9</color>
+    <color name="white">#FFF</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="primary">#E43F3F</color>
+
+    <!-- Add Child Activity toolbar popup -->
+    <color name="colorBackgroundtoolbar">#2184a3</color>
+    <!-- <color name="colorBackground">#F44336</color> -->
+    <color name="colorItem">#2196F3</color>
+    <color name="colorFAB">#36c1f4</color>
+</resources>
